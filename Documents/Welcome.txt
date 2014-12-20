@@ -1,1 +1,3 @@
 Welcome to Git Anjum!
+
+-- This line was added after creating a new Feature: Feature 1. Feature 1 is a branch and it was created from "Develop" Branch. "Develop" branch was created from "Master" Branch. Every time we need to modify a file, we will have to create a Feature branch. Once the changes are done, we "Commit" the changes made to the file and then "Finish Feature" which merges the contents of the Feature branch in Develop branch and Feature branch reaches its end of life...
